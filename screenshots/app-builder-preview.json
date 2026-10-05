@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "JODO",
+      "hasCanvas": false,
+      "bodyTextLen": 316,
+      "bodyTextHash": "1e3cd651ac92890bc2ed743325f2367fd046c2befe4b78c2b5cf1966d03b3664",
+      "bodyTextPrefix": "JODO Enter TALENT · IDEA · COMPLETION No idea builds alone. JODO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "JODO",
+      "hasCanvas": false,
+      "bodyTextLen": 316,
+      "bodyTextHash": "1e3cd651ac92890bc2ed743325f2367fd046c2befe4b78c2b5cf1966d03b3664",
+      "bodyTextPrefix": "JODO Enter TALENT · IDEA · COMPLETION No idea builds alone. JODO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
